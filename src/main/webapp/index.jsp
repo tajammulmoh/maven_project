@@ -7,8 +7,8 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>DEVOPSLearning and training this is version 3.0.</h1>
-
+        <h1>DEVOPSLearning and training this is version 3.1.</h1>
+        <h1> practicing git branches </h1>
 
 <table width="40%" bgcolor="green" align="center" border="1">
 
