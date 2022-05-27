@@ -10,7 +10,7 @@
         <h1>DEVOPSLearning and training this is version 3.0.</h1>
 
 
-<table width="40%" bgcolor="red" align="center" border="1">
+<table width="40%" bgcolor="green" align="center" border="1">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
