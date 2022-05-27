@@ -8,7 +8,7 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>DEVOPSLearning and training this is version 3.1.</h1>
-        <h1> practicing git branches </h1>
+        <h5> practicing git branches </h5>
 
 <table width="40%" bgcolor="green" align="center" border="1">
 
