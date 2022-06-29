@@ -6,8 +6,8 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from Devops</h1>
-        <h1>DEVOPSLearning and training this is version 3.1.</h1>
+        <h1>Demo Project devops again with jenkins</h1>
+        <h1>DEVOPSLearning and training this is version 3.2.</h1>
 	<h1>THIS IS MY FIRST MAVEN PROJECT</h1>
 
 <table width="40%" bgcolor="blue" align="center" border="1">
